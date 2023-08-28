@@ -1,0 +1,4 @@
+../Core/Src/mpu6050.c:8:19:mpuInit	32	static,ignoring_inline_asm
+../Core/Src/mpu6050.c:55:19:mpuRead	40	static,ignoring_inline_asm
+../Core/Src/mpu6050.c:88:6:mpuProcessed	8	static
+../Core/Src/mpu6050.c:98:6:mpuCalibrate	64	static

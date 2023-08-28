@@ -1,0 +1,7 @@
+../Core/Src/mpu_alt.c:10:9:MPU_begin	48	static
+../Core/Src/mpu_alt.c:46:6:MPU_writeAccFullScaleRange	40	static
+../Core/Src/mpu_alt.c:85:6:MPU_writeGyroFullScaleRange	40	static
+../Core/Src/mpu_alt.c:123:6:MPU_readRawData	48	static
+../Core/Src/mpu_alt.c:144:6:MPU_calibrateGyro	32	static
+../Core/Src/mpu_alt.c:175:6:MPU_readProcessedData	16	static
+../Core/Src/mpu_alt.c:198:6:MPU_calcAttitude	32	static
